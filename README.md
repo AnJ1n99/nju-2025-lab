@@ -1,1 +1,1 @@
-# 2025_njuOS_lab
+# 2025_njuOS_Minilab
